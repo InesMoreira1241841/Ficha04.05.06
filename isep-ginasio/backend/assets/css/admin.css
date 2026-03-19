@@ -45,7 +45,7 @@
     color: white; /* Texto branco */
     padding: 100px 20px 20px; /* Espaçamento interno */
     position: fixed; /* Fixa à esquerda do ecrã */
-    right: 0;
+    right: 0;  /* mudar de right:0 para left:0 */
     top: 0;
     bottom: 0;
 }
